@@ -11,3 +11,7 @@ function getComputerChoice() {
 let computerAnswer = getComputerChoice();
 
 console.log(computerAnswer);
+
+let playerAnswer = prompt("Pick either Rock, Paper or Scissors");
+
+console.log(playerAnswer);
