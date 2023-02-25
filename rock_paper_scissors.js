@@ -8,4 +8,6 @@ function getComputerChoice() {
 	return answers[choice];
 }
 
-console.log(getComputerChoice());
+let computerAnswer = getComputerChoice();
+
+console.log(computerAnswer);
